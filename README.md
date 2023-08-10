@@ -5,6 +5,7 @@ This is to allow a better experience for the user when researching information a
 ## Link
 
 ## Screenshot
+![Alt text](image.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
